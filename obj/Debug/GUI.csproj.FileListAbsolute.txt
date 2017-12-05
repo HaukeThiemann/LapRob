@@ -1,0 +1,9 @@
+D:\SWProjects\Praktikum\RobotControl\bin\Debug\RobotControl.exe.config
+D:\SWProjects\Praktikum\RobotControl\bin\Debug\RobotControl.exe
+D:\SWProjects\Praktikum\RobotControl\bin\Debug\RobotControl.pdb
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\RobotControl.MainWindow.resources
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\RobotControl.exe
+D:\SWProjects\Praktikum\RobotControl\obj\Debug\RobotControl.pdb

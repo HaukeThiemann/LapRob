@@ -1,0 +1,14 @@
+D:\SWProjects\Praktikum\RobotControl\bin\Release\RobotControl.exe.config
+D:\SWProjects\Praktikum\RobotControl\bin\Release\RobotControl.exe
+D:\SWProjects\Praktikum\RobotControl\bin\Release\RobotControl.pdb
+D:\SWProjects\Praktikum\RobotControl\obj\Release\RobotControl.MainWindow.resources
+D:\SWProjects\Praktikum\RobotControl\obj\Release\RobotControl.Properties.Resources.resources
+D:\SWProjects\Praktikum\RobotControl\obj\Release\GUI_Robot.csproj.GenerateResource.Cache
+D:\SWProjects\Praktikum\RobotControl\obj\Release\RobotControl.exe
+D:\SWProjects\Praktikum\RobotControl\obj\Release\RobotControl.pdb
+D:\SWProjects\Praktikum\GUI_RobotControl\bin\Release\RobotControl.exe.config
+D:\SWProjects\Praktikum\GUI_RobotControl\obj\Release\RobotControl.exe
+D:\SWProjects\Praktikum\GUI_RobotControl\obj\Release\RobotControl.pdb
+D:\SWProjects\Praktikum\GUI_Robot\bin\Release\RobotControl.exe.config
+D:\SWProjects\Praktikum\GUI_Robot\obj\Release\RobotControl.exe
+D:\SWProjects\Praktikum\GUI_Robot\obj\Release\RobotControl.pdb

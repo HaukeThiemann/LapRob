@@ -1,0 +1,10 @@
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\bin\Debug\RobotControl.exe.config
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\bin\Debug\RobotControl.exe
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\bin\Debug\RobotControl.pdb
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\LapRob.csprojResolveAssemblyReference.cache
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\LapRob.MainWindow.resources
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\RobotControl.Properties.Resources.resources
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\LapRob.csproj.GenerateResource.Cache
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\LapRob.csproj.CoreCompileInputs.cache
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\RobotControl.exe
+C:\Users\Hauke Thiemann\Desktop\Praktikum\GUI_Robot\obj\Debug\RobotControl.pdb
