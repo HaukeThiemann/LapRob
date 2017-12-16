@@ -76,7 +76,7 @@ namespace LapRob
         public float[] GetPositionJoints() {
             return robCom.GetPositionJoints();
         }
-        public float[,] GetPositionMatrix() {
+        public double[][] GetPositionMatrix() {
             return robCom.GetPositionHomRowWise();
         }
 

@@ -517,12 +517,17 @@ namespace LapRob
             return SendAndCheckReceive("MoveRTHomRowWise", parameters);
         }
  
-        public float[,] GetPositionHomRowWise() {
-            float[,] pos = new float[3, 4];
+        public double[][] GetPositionHomRowWise() {
+            double[][] pos = new double[4][];
+            pos[0] = new double[4];
+            pos[1] = new double[4];
+            pos[2] = new double[4];
+            pos[3] = new double[] { 0, 0, 0, 1};
             string [] sPos = SendAndReceive("GetPositionHomRowWise").Split(' ');
             for (int i = 0; i < sPos.Length; i++) {
-                pos[i / 4, i % 4]=float.Parse(sPos[i].Replace('.',','));
+                pos[i / 3][i % 4]= double.Parse(sPos[i].Replace('.',','));
             }
+            
             return pos;
         }
 
